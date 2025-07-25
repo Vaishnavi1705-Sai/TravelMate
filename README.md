@@ -1,0 +1,1 @@
+TravelMate is an end-to-end travel planning web application designed to help users effortlessly plan trips and generate personalized travel blogs. Built with a clean, responsive UI and powered by AI-driven features, TravelMate simplifies itinerary creation and transforms travel memories into shareable blog content.
